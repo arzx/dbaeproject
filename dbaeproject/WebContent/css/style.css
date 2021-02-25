@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+p {
+	color: green;
+}
+#t1 {
+	background-color: #0080c0;
+	color: white; 
+}
+
+#t2 {
+	color: red;
+}
+
+#t3 {
+	font-style: italic;
+}
+
+text {
+	color: green;
+	font-family: arial;
+}
+
+a:visited {
+	color: green;
+}
+
+a:hover {
+	color:orange;
+}
